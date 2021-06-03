@@ -1,0 +1,13 @@
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csprojAssemblyReference.cache
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfoInputs.cache
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfo.cs
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csproj.CoreCompileInputs.cache
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.exe
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.deps.json
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.json
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.dev.json
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.dll
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.dll
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+d:\Users\stephensonsso\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.genruntimeconfig.cache
